@@ -1,13 +1,4 @@
 db.sqlite3
-editor_publisher_feature_app/__pycache__/
-editor_publisher_feature_app/management/commands/__pycache__/
-editor_publisher_feature_app/migrations/__pycache__/
-editor_publisher_feature_app/models/__pycache__/
-editor_publisher_feature_app/serializers/__pycache__/
-editor_publisher_feature_app/views/__pycache__/
-editor_publisher_feature_app/utils/__pycache__/
-editor_publisher_feature_project/__pycache__/
-media/blog_images
-media/product_images
-media/user_images
-media/blog_headers
+__pycache__/
+media/
+!media/temp/
